@@ -1,4 +1,4 @@
-# Currency-Calculator
+# Currency-Converter
 
 This is a currency converter web application that allows users to convert between different currencies. The app is built using HTML, CSS, and JavaScript and utilizes a public API to fetch the latest exchange rates.
 
@@ -34,3 +34,4 @@ This is a currency converter web application that allows users to convert betwee
 - Displaying Results: The converted amount is displayed below the form, along with the exchange rate.
   
 ## Screenshot
+(images/screenshot.png)
