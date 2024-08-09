@@ -20,7 +20,7 @@ This is a currency converter web application that allows users to convert betwee
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/iamanrajput/currency-converter.git
    cd currency-converter
 2. **Open the index.html file in your browser.**
 
