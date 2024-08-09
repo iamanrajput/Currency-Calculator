@@ -34,4 +34,4 @@ This is a currency converter web application that allows users to convert betwee
 - Displaying Results: The converted amount is displayed below the form, along with the exchange rate.
   
 ## Screenshot
-(images/screenshot.png)
+![Currency-Converter](images/screenshot.png)
